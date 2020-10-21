@@ -1,2 +1,2 @@
-# Project20GCSO
-A project to detect the deformation of a car on crash.
+# p5.play-boilerplate
+Boiler plate for p5.play
